@@ -36,15 +36,11 @@ Reaches ~99% accuracy on 2-class dataset with faster training.
 # 📚 Datasets
 ## 1. 2-Class Fake News Dataset (Hugging Face)
 
-Labels: Real, Fake
-
-Files: train.tsv, test.tsv, valid.tsv
-
-Size: 44,267 samples
-
-Features: title, text, subject, date, label
-
-Clean and well-structured without missing values.
+Labels: Real, Fake <br />
+Files: train.tsv, test.tsv, valid.tsv <br />
+Size: 44,267 samples <br />
+Features: title, text, subject, date, label <br />
+Clean and well-structured without missing values. <br />
 
 ## 2. 6-Class Politifact Dataset (Kaggle)
 
